@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.userCrud.model.User;
 import com.userCrud.service.UserService;
-
+// autor vladimir ceballos
 @RestController
 public class UserController {
 	@Autowired
